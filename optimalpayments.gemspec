@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "optimalpayments"
-  s.version     = "1.0.0"
+  s.version     = "1.0.8"
   s.date        = "2014-03-11"
   s.summary     = "Optimal API"
   s.description = "Optimal API integration with Ruby"
